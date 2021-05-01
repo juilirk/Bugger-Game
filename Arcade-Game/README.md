@@ -4,8 +4,6 @@
 Bugger Game/Arcade game
 This game is similar game of the classic "frogger" game. Like Frogger, you move your character across traffic, avoiding the icky bugs, to get to the safe zone (water at the top of the page).
 
-## Play this game here : https://juilirk.github.io/Arcade-Game/
-
 # How to play
 There are 3 areas of this game world:
 
